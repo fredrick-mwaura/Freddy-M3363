@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me fredrickmwaura691@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I code because I'm a sugar addict, but for websites and AI, not donuts.
+
 
 <!---
 Freddy-M3363/Freddy-M3363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
