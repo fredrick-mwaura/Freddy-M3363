@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freddy-M3363
+- 👋 Hi, I’m @fredrick-mwaura
 - 👀 I’m interested in web development, machine learning and cybersecurity
 - 🌱 I’m currently learning Bachelor of computer science 
 - 💞️ I’m looking to collaborate on AI
